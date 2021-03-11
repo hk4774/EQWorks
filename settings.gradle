@@ -1,0 +1,3 @@
+include ':ws-mobile-kotlin'
+include ':app'
+rootProject.name = "EQ Workds"

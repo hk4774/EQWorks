@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">EQ Works</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="location_fragment_label">Location Fragment</string>
+    <string name="send_location">Send Location</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="permission_required">Permission Required for this app</string>
+    <string name="alert_dialog_ok">Go to Permission</string>
+    <string name="default_location">Current Location: 0.0, 0.0</string>
+    <string name="gps_not_found_title">GPS not enabled</string>
+    <string name="gps_not_found_message">You need to enable GPS to play with the app.</string>
+    <string name="enable">Enable</string>
+</resources>
